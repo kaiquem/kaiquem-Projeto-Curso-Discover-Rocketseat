@@ -37,9 +37,6 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ### _Kaique de Almeida Muniz_
 
-
-
-
 Este projeto foi desenvolvido junto ao curso gratuíto da Rocketseat, o Discover.
 O projeto é basicamente um multilinks com uma imagem estilo avatar com o nickname abaixo, um botão que altera entre os temas light/dark, 4 links que podem ser usados para qualquer URL externa como um curso, canal no youtube, um site etc... Logo abaixo, icones clicaveis com link para GitHub, Instagram, Youtube e LinkedIn e por fim um texto. 
 
@@ -54,12 +51,12 @@ Agora os estudos não param, acredito que muito em breve muitos outros projetos 
 - HTML
     Aprendi sobre as tags e algumas de suas propriedades e sobre a estruturação semântica do arquivo e suas configurações.
 - CSS
-    Aprendi sobre a estrutura e algumas propriedades dos componentes bem como também sobre os seletores, fizemos a estilização dos componentes utilizando CSS com variaveis para estilizar os componentes com base no modo light ou dark, incluindo os hovers dos componentes.
+    Aprendi sobre a estrutura e algumas propriedades dos componentes bem como também sobre os seletores, fiz a estilização dos componentes utilizando CSS com variaveis para estilizar os componentes com base no modo light ou dark, incluindo os hovers dos componentes.
 
 - JavaScript 
     Um breve estudo sobre lógica de programação e estrutura de dados utilizando o JavaScript, desenvolvi uma lógica para alteração do componente <html> onde foi inserido a class = "light" que altera entre os modos light ou dark.
 
-No arquivo script.js deixei comentado o bloco que eu desenvolvi sozinho antes de ver como o instrutor do curso ensinaria, isso me ajudou e tentar solucionar um problema com uma tecnologia que eu ainda não conhecia, o que serve de dica para quem como eu está começando uma nova jornada em uma nova tecnologia, tente, tente, até que de certo!
+No arquivo script.js deixei comentado o bloco que eu desenvolvi sozinho antes de ver como o instrutor do curso ensinaria, isso me ajudou a tentar solucionar um problema com uma tecnologia que eu ainda não conhecia, o que serve de dica para quem como eu esta começando uma nova jornada em uma nova tecnologia, tente, tente, até que de certo!
 
 ## 🔖 Layout
 
@@ -68,10 +65,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-=======
-
->>>>>>> 05ff24ed470d3a1e36029557c8c453e6689f178a
